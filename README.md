@@ -1,5 +1,7 @@
 💻 Laptop Price Analysis – Data-Driven Insights
 
+![image](https://github.com/user-attachments/assets/fdb49901-0a11-4138-83b0-678efe8bb8c8)
+
 
 📌 Project Overview
 
