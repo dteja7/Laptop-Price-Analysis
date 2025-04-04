@@ -10,7 +10,9 @@ This project analyzes laptop prices based on various specifications such as bran
 ## 📊 Tools & Technologies Used
 
 ✔ Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn)
+
 ✔ Machine Learning (Random Forest Regressor, Linear Regression)
+
 ✔ Jupyter Notebook
 
 ## 🔍 Key Insights & Findings
